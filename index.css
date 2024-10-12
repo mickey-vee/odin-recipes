@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+  margin: 1rem;
+}
+
+a {
+  font-weight: bold;
+}
